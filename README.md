@@ -1,5 +1,10 @@
 # 🦠 Bash Fundamentals For Bioinformatics 
+
+针对生物信息学的Bash语言基础
+
 Unix is a computer operating system best known for its powerful command-line interface, which allows users to interact with the system by typing commands. Instead of clicking and pressing buttons, as you would with a graphical user interface (GUI), when using Unix, you enter words and symbols that act as commands and instruct the computer to perform various processes. It may seem archaic to use a keyboard to issue commands today, but it’s much easier to automate keyboard tasks than mouse tasks.
+
+Unix是一种计算机作系统，以其强大的功能而闻名命令行界面，允许用户与系统交互通过键入命令。而不是单击和按下按钮，就像您如果使用图形用户界面（GUI），当使用Unix时，您输入那些充当命令并指示计算机的文字和符号执行各种过程。使用键盘来今天发出命令，但自动执行键盘任务要容易得多比鼠标任务。
 
 Unix is widely used in bioinformatics because of its flexibility, scalability, and powerful command-line tools. Many bioinformatics software tools and pipelines are designed to run in a Unix environment, and the command-line interface, often provided by the Bash shell, allows bioinformaticians to perform complex data analysis and manipulation tasks efficiently. In this tutorial, I’ll provide a crash course on basic Bash commands for bioinformatics, including an overview of essential Bash commands to navigate a file system and move, copy, edit files, and more.
 
